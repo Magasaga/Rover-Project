@@ -1,6 +1,6 @@
 /*
  ===============================================================================
-   ECO-ECO ROVER — 100% WIRELESS ESP32-S3 DRIVE & TERMINAL DASHBOARD
+   ECO ROVER — 100% WIRELESS ESP32-S3 DRIVE & TERMINAL DASHBOARD
    All-In-One Self-Contained Sketch (Dual-Channel: WebSocket + HTTP Drive)
    
    Hardware: ESP32-S3 (DevKitC-1)
