@@ -1,6 +1,6 @@
-# 🚀 Eco-Eco Rover ESP32-S3 (4-Pin Direct Drive System)
+# 🚀 Rover ESP32-S3 (4-Pin Direct Drive System)
 
-Clean, ultra-fast firmware and web dashboard for the **Eco-Eco Rover** (URRT Robo Cup).
+Clean, ultra-fast firmware and web dashboard for the **Rover** (URRT Robo Cup).
 Configured for **4-Pin PWM Control** with dual **BTS7960 (IBT-2)** high-power motor drivers.
 
 > **Hardware Note**: The motor driver enable pins (`R_EN` + `L_EN`) are hardwired directly to the **5V** supply in hardware. No GPIO pin is used for enable (GPIO 15 is completely freed and unused). All other peripheral ports have been stripped out.
